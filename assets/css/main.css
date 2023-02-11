@@ -2322,6 +2322,10 @@ input, select, textarea {
 			line-height: 1em;
 		}
 
+		.icon.socials:before {
+			font-family: 'Font Awesome 5 Brands';
+		}
+
 		.icon.style1:before {
 			color: #c3e895;
 		}
